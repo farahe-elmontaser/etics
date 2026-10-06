@@ -1,0 +1,7 @@
+requests
+chromadb
+pymupdf
+langchain-text-splitters
+pandas
+scikit-learn
+streamlit
